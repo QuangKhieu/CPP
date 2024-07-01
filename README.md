@@ -11,4 +11,4 @@ This project focuses on designing and implementing a coverage path planning stra
 - **Formation Control**: Utilize a V-shaped formation for the robots.
 - **Coverage Strategy**: Implement a forward-backward sweeping method to ensure complete area coverage.
 - **Optimization**: Focus on optimizing the travel path to reduce time while ensuring maximum coverage.
-- The `![Multi-Robot Coverage Path Planning](./CPP/figure_1.png)`
+- The `![Multi-Robot Coverage Path Planning](./CPP/Figure_1.png)`
