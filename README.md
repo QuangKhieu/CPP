@@ -1,4 +1,4 @@
-
+# Multi-Robot Coverage Path Planning (mCPP)
 ## Overview
 This project focuses on designing and implementing a coverage path planning strategy for a multi-robot formation in a V-shaped formation. The goal is to maximize coverage area and minimize the travel time of the formation using a forward-backward sweeping method.
 
